@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/NullP0interExceptionClub/tutorials/main/images/reactjs.png"/>
+![logo](https://raw.githubusercontent.com/NullP0interExceptionClub/tutorials/main/images/reactjs.png)
 
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NullPolnt) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://disboard.org/server/952012450197303357)
 
