@@ -4,7 +4,7 @@
 
 </div>
 
-- ## React.js Türkçe Kaynaklar
+- ## React.js English resources
     - [React.js dökümantasyon](https://tr.reactjs.org/docs/getting-started.html) - React.js resmi dökümantasyonu.
     - [React.js notları](https://github.com/orcuntuna/react-turkce-kaynak) - @orcuntuna tarafından hazırlanmış React.js notları.
     - [React JS - Türkçe Doküman](https://github.com/omergulcicek/react) - React, resmi olarak Türkçe'ye uyarlandı: https://tr.reactjs.org/
